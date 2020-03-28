@@ -1,0 +1,5 @@
+2020-03-27 21:26:24,030  INFO [main] EmployeesRestAPI:18 - ***************stsrted get all employessclass****************
+ 2020-03-27 21:26:26,067  INFO [main] EmployeesRestAPI:28 - ***********checking response body*********
+ 2020-03-27 21:26:26,073  INFO [main] EmployeesRestAPI:38 - *********checkingresponse code **************
+ 2020-03-27 21:26:26,077  INFO [main] EmployeesRestAPI:48 - *********checking response time*********
+ 
